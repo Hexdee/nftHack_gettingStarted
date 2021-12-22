@@ -1,6 +1,6 @@
 # nftHack_gettingStarted
 
 ## install dependencies
-    `npm install`
+    ```npm install```
 ## mint an nft
-    `node mintNFT`
+    ```node mintNFT```
