@@ -1,5 +1,5 @@
 # nftHack_gettingStarted
-Mint an NFT with the meta data saved on IPFS
+Mint an NFT with the meta data saved on IPFS using NFT Storage.
 
 ## install dependencies
 ```
